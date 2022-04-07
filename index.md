@@ -25,5 +25,5 @@ This is also a list:
 
 ---
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/4/44/Geisel_Library%2C_UCSD.jpg)
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Geisel_Library%2C_UCSD.jpg/640px-Geisel_Library%2C_UCSD.jpg)
 
