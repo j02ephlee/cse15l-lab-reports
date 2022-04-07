@@ -1,4 +1,9 @@
 
 Hello World!
 The first ~70 digits of pi are 3.14159265358979323846264338327950288419716939937510582097494459230781640
-I love pie!
+
+(╯°□°)╯︵ ┻━┻ FLIP THAT TABLE.
+
+┻━┻ ︵ ヽ(°□°ヽ) FLIP THIS TABLE.
+
+┻━┻ ︵ ＼(°0°)/／ ︵ ┻━┻ FLIP ALL THE TABLES
