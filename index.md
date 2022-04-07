@@ -11,7 +11,7 @@ The first *~70 digits* of pi are **3.1415926535897932384626433832795028841971693
 ┻━┻ ︵ ＼(°0°)/／ ︵ ┻━┻ FLIP ALL THE TABLES
 ```
 
-[CLICK ON THIS VIRUS LINK FOR A FREE IPHONE](google.com)
+[H̷̛̰̘́̊̓̐̓̒̂͗̽̐̕͜ě̵̢̨̛̯͕̦̰̦̙̤̟͎̰̺̞͈̭̺̻̟̲̈́̅̃̃̾̈́̾̌͑̒͑̍̓̆l̷̨̡̛̻͉̼̗͉̟͕̭̥͖̲̪̉̍̇̆̓̈́̏̓̍͑͂̊̈̚̕̚͘̕͝ͅl̴̡̛͚̯̱̬̗͖̮̺̳͈̬̭̩͕̏̈́͂̎̒̐͑̀́͋͊̄̓̈̀̇͒͘̕͘͝ò̷̧̢̡͖̬̪̘͔̹̘̯̜̑̉́̈́͂̀̀̓̂̓̃̚͝ͅ ̴͇͚̗̏̿̾̍̓̓̔̾̾̎̔̋̚͠W̷̖̘͓̲̹̱͔̫͎̻̻̟͓̬͕̽̄̇̐̚͜͝ͅͅͅŏ̴̡͉͎̲̪͖̘̦͖̞̼̲̘͓͖̲̥̭̓̑͒͆̈́͗̃͋͒̍̅̑̚̚͠r̷̢̦̩̖͗̇̂̑̍͋͗͌̚l̴̢̧̨͓͖͎̼͈̜͖̝̮͎̝̫͔̺̬̊͗̏͑̀̆̐͊̽͗̀͐̒̉͆͆̓̉̿̎̔̕͜d̵̟̮͓̪͚͚͆́̄̎͛̓͝ͅ](google.com)
 
 This is a list:
 * one
@@ -25,5 +25,5 @@ This is also a list:
 
 ---
 
-[Image](https://upload.wikimedia.org/wikipedia/commons/4/44/Geisel_Library%2C_UCSD.jpg)
+[Geisel Library](https://upload.wikimedia.org/wikipedia/commons/4/44/Geisel_Library%2C_UCSD.jpg)
 
