@@ -25,9 +25,11 @@ Public key is stored in ~/.ssh/id_rsa and in Github
 Private key is stored in ~/.ssh/id_rsa
 
 - Show running git commands to commit and push a change to Github while logged into your ieng6 account.
-
+![](https://user-images.githubusercontent.com/103203293/168745528-3a512808-473a-46c5-b625-9e5d147360c1.png)
 
 - Show a link for the resulting commit.
+There was an error while trying to commit.
+![](https://user-images.githubusercontent.com/103203293/168745699-e0b87db4-adcd-4530-a8d6-27d40d9bfe79.png)
 
 ---
 
