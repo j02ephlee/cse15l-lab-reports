@@ -19,8 +19,13 @@
 
 [`code]`](ucsd.edu)
 ```
+How I turned it into test file: 
 
 
+My Test: 
+![](https://user-images.githubusercontent.com/103203293/171098851-0aa8843a-9d73-4575-9836-aa7b493697bf.png)
+
+---
 
 ## Test 2
 
@@ -32,6 +37,10 @@
 [some escaped \[ brackets \]](example.com)
 ```
 
+My Test:
+![](https://user-images.githubusercontent.com/103203293/171099253-308f1512-6dea-48fb-94fe-cc341fa7a2f0.png)
+
+---
 
 ## Test 3 
 
@@ -61,4 +70,9 @@ And there's still some more text after that.
 
 And then there's more text
 ```
- 
+
+My Test:
+![](https://user-images.githubusercontent.com/103203293/171099336-28c36047-12f6-4d4c-978d-cd01bc426039.png)
+
+---
+
