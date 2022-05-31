@@ -19,8 +19,8 @@
 
 [`code]`](ucsd.edu)
 ```
-How I turned it into test file: 
-
+How I turned it into test:
+![](https://user-images.githubusercontent.com/103203293/171099842-0d16d21e-61ff-4179-b727-4b165c848538.png)
 
 My Test: 
 ![](https://user-images.githubusercontent.com/103203293/171098851-0aa8843a-9d73-4575-9836-aa7b493697bf.png)
@@ -36,6 +36,8 @@ My Test:
 
 [some escaped \[ brackets \]](example.com)
 ```
+How I turned it into test:
+![](https://user-images.githubusercontent.com/103203293/171099694-27cf24da-69fc-4254-b19a-2d262d53ab78.png)
 
 My Test:
 ![](https://user-images.githubusercontent.com/103203293/171099253-308f1512-6dea-48fb-94fe-cc341fa7a2f0.png)
@@ -70,6 +72,8 @@ And there's still some more text after that.
 
 And then there's more text
 ```
+How I turned it into test:
+![](https://user-images.githubusercontent.com/103203293/171099933-491ac19f-421e-477a-8433-4eff5fc66a41.png)
 
 My Test:
 ![](https://user-images.githubusercontent.com/103203293/171099336-28c36047-12f6-4d4c-978d-cd01bc426039.png)
