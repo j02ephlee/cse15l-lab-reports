@@ -84,6 +84,10 @@ My Test (FAILED):
 
 _NOTE: minor changes were made since the original code and test files do not contain the code snippets for this lab_
 
+Changes to their code to make it work with the snippets for this lab report:
+![](https://user-images.githubusercontent.com/103203293/171103152-80989cdb-8f99-4e54-85d1-2c1e704872c2.png)
+
+
 ## Test 1
 
 ![](https://user-images.githubusercontent.com/103203293/171102750-7a195963-03cb-4bf7-92fa-f0e89fa6d740.png)
