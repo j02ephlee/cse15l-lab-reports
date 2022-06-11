@@ -30,7 +30,7 @@ For this lab report, I will focus on test files [194](https://github.com/nidhidh
 
 - **Expected result:** []
 - **Our result:** []
-- **Lab result:** [url]
+- **Lab result:** [/url]
 
 
 ---
