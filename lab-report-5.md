@@ -6,6 +6,8 @@ For this lab report, I have decided to use our group's representative markdown-p
 
 [Link to her repository](https://github.com/NuojinliXu/markdown-parser)
 
+[Link to the lab 9 repository](https://github.com/nidhidhamnani/markdown-parser.git)
+
 
 ---
 
@@ -36,7 +38,8 @@ For this lab report, I will focus on test files [194](https://github.com/nidhidh
 
 ![](https://user-images.githubusercontent.com/103203293/173172971-9685a53b-a87b-48c5-8d9a-265b802cfe28.png)
 
-Since "url" isn't actually a link, the expected output should just be ```[]```, so our group's implementation was correct. Looking at the lab's markdown parser, it seems that the problem 
+Since "url" isn't actually a link, the expected output should just be ```[]```, so our group's implementation was correct. Looking at the lab's markdown parser, it seems that the problem was in this chunk of code that checks for opening and closing brackets and parenthesis. Our code seems to detect whether there's something between the closing bracket and the opening parenthesis, whereas the lab's code doesn't seem to do that and goes straight to finding the index of the open parenthesis. 
+![](https://user-images.githubusercontent.com/103203293/173176816-1c6f0168-56c4-41ff-a103-62e68cafcdda.png)
 
 
 ---
@@ -53,7 +56,8 @@ Since "url" isn't actually a link, the expected output should just be ```[]```, 
 
 ![](https://user-images.githubusercontent.com/103203293/173173007-76a61bcd-9783-4d63-8519-6a295e32c042.png)
 
-Since "baz" isn't a link, the expected output should just be ```[]```, so our group's implementation was correct. Looking at the lab's markdown parser, it seems that the problem
+Since "baz" isn't a link, the expected output should just be ```[]```, so our group's implementation was correct. Looking at the lab's markdown parser, it seems that the problem is the same as the previous test file in that the code doesn't take into consideration that there could be something between the closing bracket and the opening parenthesis.
+![](https://user-images.githubusercontent.com/103203293/173176816-1c6f0168-56c4-41ff-a103-62e68cafcdda.png)
 
 
 ---
