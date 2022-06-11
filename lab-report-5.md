@@ -21,25 +21,26 @@ For this lab report, I will focus on test files 194 and 201.
 
 ---
 
-### First test file (194)
+## First test file (194)
 
 [Link to test file 194](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/194.md)
 
 ![](https://user-images.githubusercontent.com/103203293/173172181-57e9d97e-3d56-4892-904b-678f98579cd1.png)
 
-- Expected result: []
-- Our result:
-- Lab result:
+- **Expected result:** []
+- **Our result:** []
+- **Lab result:** [url]
 
 ---
 
-### Second test file (201)
+## Second test file (201)
 
 [Link to test file 201](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/201.md)
 
 ![](https://user-images.githubusercontent.com/103203293/173172221-7627b437-8ba6-4dad-b3f5-671bbc13782c.png)
-- Expected result:
-- Our result:
-- Lab result:
+
+- **Expected result:** []
+- **Our result:** []
+- **Lab result:** [baz]
 
 
