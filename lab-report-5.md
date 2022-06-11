@@ -28,9 +28,15 @@ For this lab report, I will focus on test files [194](https://github.com/nidhidh
 
 ![](https://user-images.githubusercontent.com/103203293/173172181-57e9d97e-3d56-4892-904b-678f98579cd1.png)
 
-- **Expected result:** []
-- **Our result:** []
-- **Lab result:** [/url]
+- **Our result:**
+
+![](https://user-images.githubusercontent.com/103203293/173172923-a46df7a3-11f7-4a45-89c4-e581bd1f0962.png)
+
+- **Lab result:**
+
+![](https://user-images.githubusercontent.com/103203293/173172971-9685a53b-a87b-48c5-8d9a-265b802cfe28.png)
+
+Since the test file doesn't contain a link, the expected output should just be ```[]```, so our group's implementation was correct. Looking at the lab's markdown parser, it seems that the problem 
 
 
 ---
@@ -39,10 +45,15 @@ For this lab report, I will focus on test files [194](https://github.com/nidhidh
 
 ![](https://user-images.githubusercontent.com/103203293/173172221-7627b437-8ba6-4dad-b3f5-671bbc13782c.png)
 
-- **Expected result:** []
-- **Our result:** []
-- **Lab result:** [baz]
+- **Our result:** 
+
+![](https://user-images.githubusercontent.com/103203293/173173044-686a019b-b36a-4117-9f27-d3573bc8bd99.png)
+
+- **Lab result:**
+
+![](https://user-images.githubusercontent.com/103203293/173173007-76a61bcd-9783-4d63-8519-6a295e32c042.png)
+
+Since the test file doesn't contain a link, the expected output should just be ```[]```, so our group's implementation was correct. Looking at the lab's markdown parser, it seems that the problem
+
 
 ---
-
-Since both test files didn't have an actual link, the correct output should be just a ```[]```, so for both of these test files, the results produced by the lab's markdown parser was incorrect.
