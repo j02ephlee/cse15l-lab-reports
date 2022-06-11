@@ -17,6 +17,7 @@ vimdiff my-markdown-parser/results.txt cse15lsp22-markdown-parser/results.txt
 
 ![](https://user-images.githubusercontent.com/103203293/173171547-0939c5f7-96e8-4f6f-a90a-aabc9b45c971.png)
 
+As shown in this screenshot, there were some test files that produced different results for both our group's implementation of markdown-parser and the markdown-parser provided for lab 9.
 For this lab report, I will focus on test files 194 and 201.
 
 ---
@@ -43,4 +44,6 @@ For this lab report, I will focus on test files 194 and 201.
 - **Our result:** []
 - **Lab result:** [baz]
 
+---
 
+Since both test files didn't have an actual link, the correct output should be just a ```[]```, so for both of these test files, the results produced by the lab's markdown parser was incorrect.
