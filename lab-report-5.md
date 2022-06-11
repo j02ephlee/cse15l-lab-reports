@@ -17,7 +17,7 @@ vimdiff my-markdown-parser/results.txt cse15lsp22-markdown-parser/results.txt
 
 ![](https://user-images.githubusercontent.com/103203293/173171547-0939c5f7-96e8-4f6f-a90a-aabc9b45c971.png)
 
-For this lab report, I will focus on test files [194](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/194.md) and [201](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/201.md).
+For this lab report, I will focus on test files 194 and 201.
 
 ---
 
@@ -25,11 +25,21 @@ For this lab report, I will focus on test files [194](https://github.com/nidhidh
 
 [Link to test file 194](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/194.md)
 
+![](https://user-images.githubusercontent.com/103203293/173172181-57e9d97e-3d56-4892-904b-678f98579cd1.png)
+
+- Expected result: []
+- Our result:
+- Lab result:
 
 ---
 
 ### Second test file (201)
 
 [Link to test file 201](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/201.md)
+
+![](https://user-images.githubusercontent.com/103203293/173172221-7627b437-8ba6-4dad-b3f5-671bbc13782c.png)
+- Expected result:
+- Our result:
+- Lab result:
 
 
