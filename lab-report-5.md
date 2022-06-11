@@ -36,7 +36,7 @@ For this lab report, I will focus on test files [194](https://github.com/nidhidh
 
 ![](https://user-images.githubusercontent.com/103203293/173172971-9685a53b-a87b-48c5-8d9a-265b802cfe28.png)
 
-Since the test file doesn't contain a link, the expected output should just be ```[]```, so our group's implementation was correct. Looking at the lab's markdown parser, it seems that the problem 
+Since "url" isn't actually a link, the expected output should just be ```[]```, so our group's implementation was correct. Looking at the lab's markdown parser, it seems that the problem 
 
 
 ---
@@ -53,7 +53,7 @@ Since the test file doesn't contain a link, the expected output should just be `
 
 ![](https://user-images.githubusercontent.com/103203293/173173007-76a61bcd-9783-4d63-8519-6a295e32c042.png)
 
-Since the test file doesn't contain a link, the expected output should just be ```[]```, so our group's implementation was correct. Looking at the lab's markdown parser, it seems that the problem
+Since "baz" isn't a link, the expected output should just be ```[]```, so our group's implementation was correct. Looking at the lab's markdown parser, it seems that the problem
 
 
 ---
